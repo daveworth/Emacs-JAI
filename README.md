@@ -24,7 +24,7 @@ JAI Operation: add
 
 produces
 
-```lisp
+```java
 RenderedOp example_adder; {
   ParameterBlockJAI pb = new ParameterBlockJAI("add");
     pb.addSource();
